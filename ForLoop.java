@@ -40,9 +40,9 @@ public static void main (String args [])
 {
 while(true)
 {
-System.out.println("Rajanish Bhagat");
+System.out.println("Rohit");
 }
 }
 }
 
-Output :  Rajanish Bhagat will print infinit time 
+Output :  Rohit will print infinit time 

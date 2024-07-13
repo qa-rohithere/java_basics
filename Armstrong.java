@@ -1,4 +1,4 @@
-// Created By Rajanish Bhagat
+// Created By Rohit
 
 
 /* Armstrong number of 3 digits, the sum of cubes of each digits is equal to the number itself. For example:

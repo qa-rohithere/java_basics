@@ -1,4 +1,4 @@
-// Created By Rajanish Bhagat
+// Created By Rohit
 
 //In Fibonacci series, next number is the sum of previous two numbers. The first two numbers of Fibonacci series are 0 and 1
 // The Fibonacci sequence: 0, 1, 1, 2, 3, 5, 8, 13, 21, ... 

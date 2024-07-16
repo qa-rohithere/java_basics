@@ -1,4 +1,4 @@
-// Created By Rajanish Bhagat
+// Created By Rohit
 
 //Java program to get input from a user: we are using Scanner class to get input from the user. This program asks the user to enter an integer, a float, and a string; then they are printed on the screen. Scanner class is present in java.util package so we import this package into our program. We first create an object of Scanner class and then we use the methods of Scanner class. Consider the statement
 //  Scanner a = new Scanner(System.in);

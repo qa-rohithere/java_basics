@@ -1,4 +1,4 @@
-// Created By Rajanish Bhagat
+// Created By Rohit
 
 /* This program prints IP or internet protocol address of your computer system. InetAddress class of java.net package is used, getLocalHost method returns InetAddress object which represents local host. */
 

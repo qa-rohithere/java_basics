@@ -1,4 +1,4 @@
-// Created By Rajanish Bhagat
+// Created By Rohit
 
 //Java if else program uses if else to execute statement(s) when a condition holds true. Below is a simple program which explains the usage of if else in Java programming language. 
 

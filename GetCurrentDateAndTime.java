@@ -1,4 +1,4 @@
-// Created By Rajanish Bhagat
+// Created By Rohit
 import java.util.Date;    
  public class DateToTimestampExample1 {    
        public static void main(String args[]){    
